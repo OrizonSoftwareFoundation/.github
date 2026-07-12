@@ -5,9 +5,7 @@ The Orizon Software Foundation is a small non-profit that maintains infrastructu
 
 
 ## Projects
-OS -
-
-
+OZNIX: A FOSS Operating System. 
 
 
 ## Services 
@@ -18,5 +16,5 @@ Dembur: A privacy-respecting search engine | https://search.orizonsoftwarefounda
 ## How to contact us
 contact@orizonsoftwarefoundation.org
 
-## Matrix Room for all chats related to development
+## Matrix Room for all chats including development
 https://matrix.to/#/#Orizon-Software-Foundation:unredacted.org
