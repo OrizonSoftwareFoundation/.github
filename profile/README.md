@@ -5,8 +5,7 @@ The Orizon Software Foundation is a small non-profit that maintains infrastructu
 
 
 ## Projects
-OSFIX: A FOSS Operating System. 
-
+OHTTPd : https://github.com/OrizonSoftwareFoundation/OHTTPd
 
 ## Services 
 Alligitor : Forgejo-based git hosting for foundation projects. | https://alligitor.orizonsoftwarefoundation.org/
