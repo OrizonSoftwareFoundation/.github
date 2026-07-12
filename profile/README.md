@@ -13,3 +13,9 @@ OS -
 ## Services 
 Alligitor : orgejo-based git hosting for foundation projects.  - https://alligitor.orizonsoftwarefoundation.org/
 dembur: a privacy-respecting search engine - https://search.orizonsoftwarefoundation.org/ 
+
+## How to contact us
+contact@orizonsoftwarefoundation.org
+
+## Matrix Room for all chats related to development
+https://matrix.to/#/#Orizon-Software-Foundation:unredacted.org
