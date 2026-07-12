@@ -15,6 +15,8 @@ Dembur: A privacy-respecting search engine | https://search.orizonsoftwarefounda
 
 ## How to contact us
 contact@orizonsoftwarefoundation.org
+
 legal@orizonsoftwarefoundation.org (for DMCA takedowns and other legal requests)
+
 ## Matrix Room for all chats including development
 https://matrix.to/#/#Orizon-Software-Foundation:unredacted.org
