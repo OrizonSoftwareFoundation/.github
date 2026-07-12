@@ -5,10 +5,12 @@ The Orizon Software Foundation is a small non-profit that maintains infrastructu
 
 
 ## Projects
-OHTTPd : https://github.com/OrizonSoftwareFoundation/OHTTPd
+OHTTPd: A light-weight HTTP server. | https://github.com/OrizonSoftwareFoundation/OHTTPd
+
+OSFIX: A FOSS operating system.     | https://github.com/OrizonSoftwareFoundation/OSFIX-Operating-System
 
 ## Services 
-Alligitor : Forgejo-based git hosting for foundation projects. | https://alligitor.orizonsoftwarefoundation.org/
+Alligitor: Forgejo-based git hosting for foundation projects. | https://alligitor.orizonsoftwarefoundation.org/
 
 Dembur: A privacy-respecting search engine | https://search.orizonsoftwarefoundation.org/ 
 
