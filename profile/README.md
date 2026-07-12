@@ -5,7 +5,7 @@ The Orizon Software Foundation is a small non-profit that maintains infrastructu
 
 
 ## Projects
-OZNIX: A FOSS Operating System. 
+OSFIX: A FOSS Operating System. 
 
 
 ## Services 
